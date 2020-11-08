@@ -1,31 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
-	<title>Smartsocialbook.com/login</title>
-    <link rel="icon" href="images/onelogo.png" type="images/onelogo.png" sizes="16x16">
-
-    <link rel="stylesheet" href="css/main.min.css">
-	<link rel="stylesheet" href="css/weather-icon.css">
-	<link rel="stylesheet" href="css/weather-icons.min.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/color.css">
-    <link rel="stylesheet" href="css/responsive.css">
-
-</head>
+<?php include 'phpinclude/head.php' ?>
 <body>
 	<div class="www-layout">
         <section>
         	<div class="gap no-gap signin whitish medium-opacity">
-                <div class="bg-image" ></div>
+                
                 <div class="container">
-                	<div class="row">
-                        <div class="col-lg-8">
-                            
-                        </div>
+                	<div class="row center">
                         <div class="col-lg-4">
                             <div class="we-login-register">
                                 <div class="form-title">
