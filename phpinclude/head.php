@@ -6,7 +6,7 @@
     <meta name="description" content="" />
     <meta name="keywords" content="" />
 	<title>Smartsocialbook.com</title>
-    <link rel="icon" href="images/logo.png" type="image/png" sizes="16x16">
+    <link rel="icon" href="images/onelogo.png" type="image/png" sizes="16x16">
 
     <link rel="stylesheet" href="css/main.min.css">
 	<link rel="stylesheet" href="css/weather-icons.min.css">
