@@ -1,6 +1,6 @@
 <div class="topbar stick">
 		<div class="logo" style=" position:relative;">
-			<a title="" href="index.php"><img src="images/onelogo.png" alt=""> <Span style ="position:absolute;top:1rem;left:3.6rem;color:white;font-size:1.3rem;"> Smart Book </Span> </a>
+			<a title="" href="home.php"><img src="images/onelogo.png" alt=""> <Span style ="position:absolute;top:1rem;left:3.6rem;color:white;font-size:1.3rem;"> Smart Book </Span> </a>
 		</div>
 		<div class="top-area">
 			<div class="main-menu">
@@ -18,7 +18,7 @@
 			    <span>newsfeed</span>
 			 </div>
 			<ul class="setting-area">
-				<li><a href="index.php" title="Home" data-ripple=""><i class="fa fa-home"></i></a></li>
+				<li><a href="home.php" title="Home" data-ripple=""><i class="fa fa-home"></i></a></li>
 				<li>
 					<a href="" title="Friend Requests" data-ripple="">
 						<i class="fa fa-user"></i><em class="bg-red">5</em>
@@ -552,7 +552,7 @@
 			<ul class="nav-list">
 				<li><a class="" href="#" title=""><i class="fa fa-home"></i> Home Pages</a>
 					<ul>
-						<li><a href="index.php" title="">Smart Default</a></li>
+						<li><a href="home.php" title="">Smart Default</a></li>
 						<li><a href="company-landing.php" title="">Company Landing</a></li>
 						<li><a href="pitrest.php" title="">Smartrest</a></li>
 						<li><a href="redpit.php" title="">Popular Page</a></li>
@@ -604,7 +604,7 @@
 						<li><a href="about.php" title="">Timeline About</a></li>
 						<li><a href="blog-posts.php" title="">Timeline Blog</a></li>
 						<li><a href="friends-birthday.php" title="">Friends' Birthday</a></li>
-						<li><a href="index.php" title="">index</a></li>
+						<li><a href="home.php" title="">home</a></li>
 						<li><a href="search-result.php" title="">Search Result</a></li>
 					</ul>
 				</li>

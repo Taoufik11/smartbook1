@@ -62,7 +62,7 @@
 				<li><a class="closd-f-menu" href="#" title=""><i class="ti-close"></i> close Menu</a></li>
 				<li class="menu-item-has-children"><a class="" href="#" title=""><i class="fa fa-home"></i> Home Pages</a>
 					<ul class="submenu">
-						<li><a href="index.php" title="">Smart Default</a></li>
+						<li><a href="home.php" title="">Smart Default</a></li>
 						<li><a href="company-landing.html" title="">Company Landing</a></li>
 						<li><a href="pitrest.html" title="">Smartrest</a></li>
 						<li><a href="redpit.php" title="">PopularPage</a></li>

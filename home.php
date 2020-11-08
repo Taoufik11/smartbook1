@@ -10,7 +10,7 @@
 				<a class="" href="#menu"><i class="fa fa-align-justify"></i></a>
 			</span>
 			<span class="mh-text">
-				<a href="index.php" title=""><img src="images/onelogo.png" alt=""></a>
+				<a href="home.php" title=""><img src="images/onelogo.png" alt=""></a>
 			</span>
 			<span class="mh-btns-right">
 				<a class="fa fa-sliders" href="#shoppingbag"></a>
@@ -26,7 +26,7 @@
 			<ul>
 				<li><span>Home Pages</span>
 					<ul>
-						<li><a href="index.php" title="">Smart Default</a></li>
+						<li><a href="home.php" title="">Smart Default</a></li>
 						<li><a href="company-landing.php" title="">Company Landing</a></li>
 						<li><a href="pitrest.php" title="">Smartrest</a></li>
 						<li><a href="redpit.php" title="">Popular Page</a></li>

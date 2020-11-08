@@ -1,4 +1,7 @@
 <?php include 'phpinclude/head.php' ?>
+<?php include 'phpinclude/loadpage.php' ?>
+
+
 <body>
 	<div class="www-layout">
         
