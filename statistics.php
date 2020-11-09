@@ -1,33 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
-	<title>Pitnik Social Network Toolkit</title>
-    <link rel="icon" href="images/fav.png" type="image/png" sizes="16x16">
-
-    <link rel="stylesheet" href="css/main.min.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/color.css">
-    <link rel="stylesheet" href="css/responsive.css">
-
-</head>
-<body>
-<div class="wavy-wraper">
-		<div class="wavy">
-		  <span style="--i:1;">p</span>
-		  <span style="--i:2;">i</span>
-		  <span style="--i:3;">t</span>
-		  <span style="--i:4;">n</span>
-		  <span style="--i:5;">i</span>
-		  <span style="--i:6;">k</span>
-		  <span style="--i:7;">.</span>
-		  <span style="--i:8;">.</span>
-		  <span style="--i:9;">.</span>
-		</div>
-	</div>
+<?php require 'phpinclude/head.php' ?>
+<?php include 'phpinclude/loadpage.php'; ?>
 <div class="theme-layout">
 
 	<div class="responsive-header">

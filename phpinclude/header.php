@@ -86,7 +86,7 @@
 									</div>
 									<div class="add-del-friends">
 										<a href="#" title=""><i class="fa fa-heart"></i></a>
-										<a href="#" title=""><i class="fa fa-trash"></i></a>
+										<a href="#" ti  tle=""><i class="fa fa-trash"></i></a>
 									</div>
 								</div>
 							</li>
@@ -578,11 +578,11 @@
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-female"></i> SmartPoint</a>
 					<ul>
-						<li><a href="Smart.php" title="">SmartPoint</a></li>
-						<li><a href="Smart-detail.php" title="">Smart Detail</a></li>
-						<li><a href="Smart-list.php" title="">Smart List style</a></li>
-						<li><a href="Smart-without-baner.php" title="">Smart without Banner</a></li>
-						<li><a href="Smart-search-result.php" title="">Smart Search</a></li>
+						<li><a href="pitpoint.php" title="">SmartPoint</a></li>
+						<li><a href="pitpoint-detail.php" title="">Smart Detail</a></li>
+						<li><a href="pitpoint-list.php" title="">Smart List style</a></li>
+						<li><a href="pitpoint-without-baner.php" title="">Smart without Banner</a></li>
+						<li><a href="pitpoint-search-result.php" title="">Smart Search</a></li>
 					</ul>
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-graduation-cap"></i> Smartjob</a>
