@@ -26,7 +26,8 @@
                                 </form>
                                 <?php 
                                 if(isset($_POST['submit'])){
-                                    include
+                                    include 'config.php';
+                                    
                                 }
                                 
                                 
