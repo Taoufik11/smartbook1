@@ -21,11 +21,13 @@
                                     <input type="text" placeholder="Email or User Name">
                                     <input type="password" placeholder="Password">
                                     <input type="checkbox"><label>remember me</label>
-                                    <button type="submit" data-ripple="">sign in</button>
+                                    <button type="submit" name="submit" data-ripple="">sign in</button>
                                     <a class="forgot underline" href="#" title="">forgot password?</a>
                                 </form>
                                 <?php 
-                                
+                                if(isset($_POST['submit'])){
+                                    include
+                                }
                                 
                                 
                                 ?>
