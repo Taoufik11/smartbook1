@@ -214,7 +214,6 @@
 		</nav>
 	</div><!-- responsive header -->
 <?php include 'phpinclude/header.php'; ?>
-
 <?php include 'phpinclude/chatlive.php'; ?>
 <?php include 'phpinclude/siderbarleft.php'; ?>
 

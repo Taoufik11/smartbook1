@@ -1,12 +1,12 @@
-<!DOCTYPE php>
+<!DOCTYPE html>
 <php lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/php; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="" />
     <meta name="keywords" content="" />
-	<title>Pitnik Social Network Toolkit</title>
-    <link rel="icon" href="images/fav.png" type="image/png" sizes="16x16">
+	<title>Smartsocialbook/logout</title>
+    <link rel="icon" href="images/onelogo.png" type="image/png" sizes="16x16">
 
     <link rel="stylesheet" href="css/main.min.css">
 	<link rel="stylesheet" href="css/weather-icon.css">
@@ -227,7 +227,7 @@
 
 	<div class="topbar stick">
 		<div class="logo">
-			<a title="" href="newsfeed.php"><img src="images/logo.png" alt=""></a>
+			<a title="" href="newsfeed.php"><img src="images/onelogo.png" alt=""> <Span style ="position:absolute;top:1rem;left:3.6rem;color:white;font-size:1.3rem;"> Smart Book </Span></a>
 		</div>
 
 		<div class="top-area">
@@ -553,7 +553,7 @@
 											<input type="password" placeholder="Password" value="12345678">
 											<button type="submit">Login</button>
 										</form>
-										<a href="#" title="">Create New Signup</a>
+										<a href="register.php" title="">Create New Signup</a>
 										<p>By clicking Sign Up, you agree to our <a href="#" title="">Terms & Policy</a>. You may receive SMS notifications from us and can opt out at any time.</p>
 									</div>
 								</div>
@@ -691,4 +691,4 @@
 	<script src="js/script.js"></script>
 
 </body>
-</php>
+</html>

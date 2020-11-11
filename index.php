@@ -1,3 +1,6 @@
+<?php 
+
+?>
 <?php include 'phpinclude/head.php' ?>
 <?php include 'phpinclude/loadpage.php' ?>
 
@@ -16,15 +19,38 @@
                                     <i class="fa fa-key"></i>login
                                     <span>sign in now and meet the awesome Friends around the world.</span>
                                 </div>
-                                
-                                <form class="we-form" method="post" action="<?php '[PHP_SELF]'?>">
-                                    <input type="text" placeholder="Email or User Name">
-                                    <input type="password" placeholder="Password">
+    
+
+
+                                <form class="we-form" method="POST" action="<?php '[PHP_SELF]'?>">
+
+                                    <input type="text" name ="username" placeholder="Email or User Name">
+                                    
+                                    <input type="password" name ="password" placeholder="Password">
+
                                     <input type="checkbox"><label>remember me</label>
+
                                     <button type="submit" name="submit" data-ripple="">sign in</button>
+
                                     <a class="forgot underline" href="#" title="">forgot password?</a>
                                 </form>
                                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                 <a class="with-smedia facebook" href="#" title="" data-ripple=""><i class="fa fa-facebook"></i></a>
                                 <a class="with-smedia twitter" href="#" title="" data-ripple=""><i class="fa fa-twitter"></i></a>
 								<a class="with-smedia instagram" href="#" title="" data-ripple=""><i class="fa fa-instagram"></i></a>

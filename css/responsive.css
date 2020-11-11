@@ -23,6 +23,9 @@
 		/* width: 90px;
 		max-width:60px; */
 	}
+	.topbar span{
+		border:1px solid red;
+	}
 	.header-inner{
 		max-width: 70%;
 	}
