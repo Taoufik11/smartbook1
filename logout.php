@@ -42,7 +42,7 @@
 			<ul>
 				<li><span>Home Pages</span>
 					<ul>
-						<li><a href="index.php" title="">Pitnik Default</a></li>
+						<li><a href="index.php" title="" Smart Book Default</a></li>
 						<li><a href="pitrest.php" title="">Pitrest</a></li>
 						<li><a href="redpit.php" title="">Redpit</a></li>
 						<li><a href="redpit-category.php" title="">Redpit Category</a></li>
@@ -497,7 +497,7 @@
 	<section>
 		<div class="page-header">
 			<div class="header-inner">
-				<h2>Now You are out of Pitnik</h2>
+				<h2>Now You are out of Smart Book</h2>
 				<p>
 					Discover what's happining right now in the world.
 				</p>
@@ -594,7 +594,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<span class="copyright">© Pitnik 2020. All rights reserved.</span>
+					<span class="copyright">© Smart Book 2020. All rights reserved.</span>
 					<i><img src="images/credit-cards.png" alt=""></i>
 				</div>
 			</div>
@@ -670,7 +670,7 @@
 			<span class="popup-closed"><i class="ti-close"></i></span>
 			<div class="popup-meta">
 				<div class="popup-head">
-					<h5><i class="ti-key"></i> Login to Pitnik</h5>
+					<h5><i class="ti-key"></i> Login to Smart Book</h5>
 				</div>
 				<div class="login-frm">
 					<input type="text" placeholder="User Name">
