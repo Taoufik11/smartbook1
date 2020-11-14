@@ -486,7 +486,7 @@
 						</ul>
 					</div>
 				</li>
-				<li><a class="text" data-ripple="" title="Privacy" href="policies">Privacy & Policy</a></li>
+				<li><a class="text" data-ripple="" title="Privacy" href="privacy.php">Privacy & Policy</a></li>
 				<li><a class="text" data-ripple="" title="Privacy" href="about.php">Contact</a></li>
 				<li><a class="text" data-ripple="" title="Privacy" href="faq.php">Faq's</a></li>
 				<li><a class="text" data-ripple="" title="Privacy" href="forum.php">Forum</a></li>
