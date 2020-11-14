@@ -25,7 +25,7 @@
         <li class="bad-report" title="Report"><i class="fa fa-flag"></i></li>
         <li class="bane" title="Stop Post"><i class="fa fa-ban"></i></li>
         <li class="get-link" title="Get Post Link"><i class="fa fa-link"></i></li>
-        <li class="smile-it" title="Give Smiles"><i class="fas fa-hammer"></i><em>Judge it</em>
+        <li class="smile-it" title="Give Smiles"><i class="fas fa-gavel"></i><em>Judge it</em>
           <div class="smiles-bunch">
             <span>Bean it</span>
             <span>Recommend it</span>

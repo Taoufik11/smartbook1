@@ -562,33 +562,33 @@
 						<li><a href="career.php" title="">Smartjob</a></li>
 						<li><a href="shop.php" title="">Shop</a></li>
 						<li><a href="classified.php" title="">Classified</a></li>
-						<li><a href="pitpoint.php" title="">SmartPoint</a></li>
+						<li><a href="pitpoint.php" title="">Smart match</a></li>
 						<li><a href="pittube.php" title="">Smarttube</a></li>
 						<li><a href="chat-messenger.php" title="">Messenger</a></li>
 					</ul>
 				</li>
-				<li><a class="" href="#" title=""><i class="fa fa-film"></i> Smarttube</a>
+				<li><a class="" href="#" title=""><i class="fa fa-film"></i> Smart Tube</a>
 					<ul>
-						<li><a href="pittube.php" title="">Smarttube</a></li>
-						<li><a href="pittube-detail.php" title="">Smarttube single</a></li>
-						<li><a href="pittube-category.php" title="">Smarttube Category</a></li>
-						<li><a href="pittube-channel.php" title="">Smarttube Channel</a></li>
-						<li><a href="pittube-search-result.php" title="">Smarttube Search Result</a></li>
+						<li><a href="pittube.php" title="">Smart Tube</a></li>
+						<li><a href="pittube-detail.php" title="">Smart Tube single</a></li>
+						<li><a href="pittube-category.php" title="">Smart tube Category</a></li>
+						<li><a href="pittube-channel.php" title="">Smar Tube Channel</a></li>
+						<li><a href="pittube-search-result.php" title="">Smart Tube Search Result</a></li>
 					</ul>
 				</li>
-				<li><a class="" href="#" title=""><i class="fa fa-female"></i> SmartPoint</a>
+				<li><a class="" href="#" title=""><i class="fa fa-female"></i> Smart Match</a>
 					<ul>
-						<li><a href="pitpoint.php" title="">SmartPoint</a></li>
+						<li><a href="pitpoint.php" title="">Smart match</a></li>
 						<li><a href="pitpoint-detail.php" title="">Smart Detail</a></li>
 						<li><a href="pitpoint-list.php" title="">Smart List style</a></li>
 						<li><a href="pitpoint-without-baner.php" title="">Smart without Banner</a></li>
 						<li><a href="pitpoint-search-result.php" title="">Smart Search</a></li>
 					</ul>
 				</li>
-				<li><a class="" href="#" title=""><i class="fa fa-graduation-cap"></i> Smartjob</a>
+				<li><a class="" href="#" title=""><i class="fa fa-graduation-cap"></i> Smart Job</a>
 					<ul>
-						<li><a href="career.php" title="">Smartjob</a></li>
-						<li><a href="career-detail.php" title="">Smartjob Detail</a></li>
+						<li><a href="career.php" title="">Smart Job</a></li>
+						<li><a href="career-detail.php" title="">Smart Job Detail</a></li>
 						<li><a href="career-search-result.php" title="">Job seach page</a></li>
 						<li><a href="social-post-detail.php" title="">Social Post Detail</a></li>
 					</ul>
@@ -619,7 +619,7 @@
 						<li><a href="price-plans.php" title="">Price Plan</a></li>
 					</ul>
 				</li>
-				<li><a class="" href="#" title=""><i class="fa fa-forumbee"></i> Forum</a>
+				<li><a class="" href="#" title=""><i class="fab fa-forumbee"></i> Forum</a>
 					<ul>
 						<li><a href="forum.php" title="">Forum</a></li>
 						<li><a href="forum-create-topic.php" title="">Forum Create Topic</a></li>
@@ -627,7 +627,7 @@
 						<li><a href="forums-category.php" title="">Forum Category</a></li>
 					</ul>
 				</li>
-				<li><a class="" href="#" title=""><i class="fa fa-star-o"></i> Featured</a>
+				<li><a class="" href="#" title=""><i class="fas fa-toolbox"></i> Featured</a>
 					<ul>
 						<li><a href="chat-messenger.php" title="">Messenger (Chatting)</a></li>
 						<li><a href="notifications.php" title="">Notifications</a></li>
@@ -655,9 +655,9 @@
 						<li><a href="register.php" title="">Register Page</a></li>
 						<li><a href="logout.php" title="">Logout Page</a></li>
 						<li><a href="coming-soon.php" title="">Coming Soon</a></li>
-						<li><a href="error-404.php" title="">Error 404</a></li>
+						<!-- <li><a href="error-404.php" title="">Error 404</a></li>
 						<li><a href="error-404-2.php" title="">Error 404-2</a></li>
-						<li><a href="error-500.php" title="">Error 500</a></li>
+						<li><a href="error-500.php" title="">Error 500</a></li> -->
 					</ul>
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-wrench"></i> Tools</a>
