@@ -1,4 +1,12 @@
-<?php include 'phpinclude/head.php' ?>
+<?php 
+
+
+
+
+
+?>
+<?php include 'phpinclude/head.php';?>
+
 <body>
 	<div class="www-layout">
         <section>
@@ -7,16 +15,19 @@
                 <div class="container">
                 	<div class="row center">
                         
-                        <div class="col-lg-4">
+                        <div class="col-lg-5">
                             <div class="we-login-register">
                                 <div class="form-title">
                                     <i class="fa fa-key"></i>Sign Up
                                     <span>Sign Up now and meet the awesome friends around the world.</span>
                                 </div>
                                 <form class="we-form" method="post">
-                                    <input type="text" placeholder="Email">
-                                    <input type="password" placeholder="Password">
-                                    <input type="text" placeholder="+1234-567-987">
+                                    <input type="text" required placeholder="Email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$">
+                                    
+                                    <input type="tex" placeholder="User Name" required>
+                                    <input type="password" placeholder="Password" required>
+                                    <input type="password" placeholder=" Confirm Password" required>
+                                    <input type="text" placeholder="+1234-567-987" required>
                                     <input type="checkbox"><label>Send code to Mobile</label>
                                     <button type="submit" data-ripple="">Register</button>
                                     <a class="forgot underline" href="#" title="">forgot password?</a>
