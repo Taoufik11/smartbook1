@@ -14,7 +14,7 @@
 				</li>
 				<li>
 					<a href="forum.php" title="Forum" data-toggle="tooltip" data-placement="right">
-						<i class="fa fa-forumbee"></i>
+						<i class="fab fa-forumbee"></i>
 					</a>
 				</li>
 				<li>
@@ -24,7 +24,7 @@
 				</li>
 				<li>
 					<a href="fav-page.php" title="Favourit page" data-toggle="tooltip" data-placement="right">
-						<i class="fa fa-star-o"></i>
+					<i class="fa fa-heart"></i>
 					</a>
 				</li>
 				<li>
@@ -34,7 +34,7 @@
 				</li>
 				<li>
 					<a href="notifications.php" title="Notification" data-toggle="tooltip" data-placement="right">
-						<i class="fa fa-bell-o"></i>
+					<i class="fas fa-bell"></i>
 					</a>
 				</li>
 
@@ -46,7 +46,7 @@
 
 				<li>
 					<a href="support-and-help.php" title="Help" data-toggle="tooltip" data-placement="right">
-						<i class="fa fa-question-circle-o">
+					<i class="fas fa-question-circle"></i>
 						</i>
 					</a>
 				</li>
@@ -129,7 +129,7 @@
 						<li><a href="price-plans.php" title="">Price Plan</a></li>
 					</ul>
 				</li>
-				<li class="menu-item-has-children"><a class="" href="#" title=""><i class="fa fa-forumbee"></i>Forum</a>
+				<li class="menu-item-has-children"><a class="" href="#" title=""><i class="fab fa-forumbee"></i>Forum</a>
 					<ul class="submenu">
 						<li><a href="forum.php" title="">Forum</a></li>
 						<li><a href="forum-create-topic.php" title="">Forum Create Topic</a></li>
@@ -137,7 +137,7 @@
 						<li><a href="forums-category.php" title="">Forum Category</a></li>
 					</ul>
 				</li>
-				<li class="menu-item-has-children"><a class="" href="#" title=""><i class="fa fa-star-o"></i>Featured</a>
+				<li class="menu-item-has-children"><a class="" href="#" title=""><i class="fas fa-toolbox"></i>Featured</a>
 					<ul class="submenu">
 						<li><a href="chat-messenger.php" title="">Messenger (Chatting)</a></li>
 						<li><a href="notifications.php" title="">Notifications</a></li>

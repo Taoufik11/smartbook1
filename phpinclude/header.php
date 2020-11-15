@@ -20,7 +20,7 @@
 			<ul class="setting-area">
 				<li><a href="home.php" title="Home" data-ripple=""><i class="fa fa-home"></i></a></li>
 				<li>
-					<a href="" title="Friend Requests" data-ripple="">
+					<a href="#" title="Friend Requests" data-ripple="">
 						<i class="fa fa-user"></i><em class="bg-red">5</em>
 					</a>
 					<div class="dropdowns">
