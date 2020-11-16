@@ -7261,6 +7261,9 @@ a.with-smedia {
     text-transform: capitalize;
     width: 40px;
 }
+#error{
+    position:absolute;
+}
 .we-login-register > span {
     float: left;
     margin-top: 20px;

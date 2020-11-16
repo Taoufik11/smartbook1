@@ -526,7 +526,12 @@
 				</li>
 			</ul>
 			<div class="user-img">
-				<h5>Jack Carter</h5>
+				<h5>
+				<?php 
+				echo $_SESSION['username'];
+				?>
+				
+				</h5>
 				<img src="images/resources/admin.jpg" alt="">
 				<span class="status f-online"></span>
 				<div class="user-setting">
@@ -550,7 +555,7 @@
 		</div>
 		<nav>
 			<ul class="nav-list">
-				<li><a class="" href="#" title=""><i class="fa fa-home"></i> Home Pages</a>
+				<li><a class="" href="#" title=""><i class="fa fa-home"></i>Home Pages</a>
 					<ul>
 						<li><a href="home.php" title="">Smart Default</a></li>
 						<li><a href="company-landing.php" title="">Company Landing</a></li>
@@ -608,9 +613,9 @@
 						<li><a href="search-result.php" title="">Search Result</a></li>
 					</ul>
 				</li>
-				<li><a class="" href="#" title=""><i class="fa fa-heart"></i> Favourit Page</a>
+				<li><a class="" href="#" title=""><i class="fa fa-heart"></i> Favourite Page</a>
 					<ul>
-						<li><a href="fav-page.php" title="">Favourit Page</a></li>
+						<li><a href="fav-page.php" title="">Favourite Page</a></li>
 						<li><a href="fav-favers.php" title="">Fav Page Likers</a></li>
 						<li><a href="fav-events.php" title="">Fav Events</a></li>
 						<li><a href="fav-event-invitations.php" title="">Fav Event Invitations</a></li>
@@ -649,7 +654,7 @@
 						<li><a href="support-and-help-search-result.php" title="">Support Search</a></li>
 					</ul>
 				</li>
-				<li><a class="" href="#" title=""><i class="fa fa-lock"></i> Authentication</a>
+				<li><a class="" href="#" title=""><i class="fa fa-lock"></i>Security</a>
 					<ul>
 						<li><a href="login.php" title="">Login Page</a></li>
 						<li><a href="register.php" title="">Register Page</a></li>

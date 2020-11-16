@@ -23,7 +23,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="fav-page.php" title="Favourit page" data-toggle="tooltip" data-placement="right">
+					<a href="fav-page.php" title="Favourite page" data-toggle="tooltip" data-placement="right">
 					<i class="fa fa-heart"></i>
 					</a>
 				</li>
@@ -118,9 +118,9 @@
 						<li><a href="search-result.php" title="">Search Result</a></li>
 					</ul>
 				</li>
-				<li class="menu-item-has-children"><a class="" href="#" title=""><i class="fa fa-heart"></i>Favourit Page</a>
+				<li class="menu-item-has-children"><a class="" href="#" title=""><i class="fa fa-heart"></i>Favourite Page</a>
 					<ul class="submenu">
-						<li><a href="fav-page.php" title="">Favourit Page</a></li>
+						<li><a href="fav-page.php" title="">Favourite Page</a></li>
 						<li><a href="fav-favers.php" title="">Fav Page Likers</a></li>
 						<li><a href="fav-events.php" title="">Fav Events</a></li>
 						<li><a href="fav-event-invitations.php" title="">Fav Event Invitations</a></li>

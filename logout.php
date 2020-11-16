@@ -1,5 +1,10 @@
+
+<?php
+include 'PHP/sessionend.php';
+?>
+
 <!DOCTYPE html>
-<php lang="en">
+<html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/php; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -544,14 +549,18 @@
 								</div>
 							</div>
 							<div class="col-lg-6 col-md-6">
+							<?PHP
+							
+							
+							?>
 								<div class="logout-f">
 									<h4><i class="fa fa-key"></i> Login</h4>
 									<p>Login again, you have recently signout from here</p>
 									<div class="logout-form">
-										<form method="post" class="again-login">
-											<input type="text" placeholder="User Name" value="Adam James">
-											<input type="password" placeholder="Password" value="12345678">
-											<button type="submit">Login</button>
+										<form class="again-login" method="POST" action="PHP/login.php">
+										<input type="text" name="username" placeholder="User Name">
+										<input type="password" name="password" placeholder="Password">
+										<button type="submit" name="submit">Login</button>
 										</form>
 										<a href="register.php" title="">Create New Signup</a>
 										<p>By clicking Sign Up, you agree to our <a href="#" title="">Terms & Policy</a>. You may receive SMS notifications from us and can opt out at any time.</p>
@@ -673,8 +682,8 @@
 					<h5><i class="ti-key"></i> Login to Smart Book</h5>
 				</div>
 				<div class="login-frm">
-					<input type="text" placeholder="User Name">
-					<input type="password" placeholder="Password">
+					<input type="text" name="username" placeholder="User Name">
+					<input type="password" name="password" placeholder="Password">
 					<div class="checkbox">
 					  <label>
 						<input type="checkbox" checked="checked"><i class="check-box"></i>Remember Password
