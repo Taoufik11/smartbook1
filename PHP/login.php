@@ -13,7 +13,7 @@
                 $_SESSION["username"] = $row['USERNAME'];
                 $_SESSION["email"] = $row['EMAIL'];
                 $_SESSION["pass"] = $row['pass'];
-                header("location:/smartbook1/home.php");
+                header("location:home.php");
 
                 
             }
