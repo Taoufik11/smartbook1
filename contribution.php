@@ -212,10 +212,9 @@
 			</div>
 		</nav>
 	</div><!-- responsive header -->
-	<?php require 'phpinclude/header.php' ?>
-	<?php require 'phpinclude/sidebarleft.php' ?>
-	<?php require 'phpinclude/chatlive.php' ?>
-
+	<?php include 'phpinclude/header.php'; ?>
+<?php include 'phpinclude/chatlive.php'; ?>
+<?php include 'phpinclude/siderbarleft.php'; ?>
 	
 	<section>
 		<div class="gap2 gray-bg">
