@@ -44,7 +44,7 @@ if(isset($_SESSION["username"])){
                                     <span>sign in now and meet the awesome Friends around the world.</span>
                                 </div>
                                    
-                                <form class="we-form" method="POST" action="PHP/login.php">
+                                <form class="we-form" method="POST" action="login.php">
 
                                     <input type="text" name ="username" placeholder="Email or User Name">
                                     

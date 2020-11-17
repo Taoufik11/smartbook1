@@ -1,5 +1,5 @@
 <?php
-include "PHP/config.php";
+include "config.php";
 session_start();
 if(!isset($_SESSION["username"])){
     header("location:index.php");
