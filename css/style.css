@@ -657,7 +657,7 @@ header.sticky {
 /*--- topbar ---*/
 
 .topbar {
-    background: #191c1e;
+    background:  #3b5998;
     display: block;
     height: 66px;
     padding: 0 16px;
@@ -11086,7 +11086,8 @@ aside .widget.pitnik-links > ul > li > a {
     height: 22px;
 }
 .nav-list {
-    background: #191c1e none repeat scroll 0 0;
+    
+    background: #536999 none repeat scroll 0 0;
     color: #fff;
     list-style: outside none none;
     margin: 0;
@@ -11106,11 +11107,11 @@ aside .widget.pitnik-links > ul > li > a {
 	line-height: 21px;
 }
 .nav-list > li:hover {
-    background: #616263;
+    background: #3B5998;
 }
 
 .nav-list > li ul {
-    background: #616263 none repeat scroll 0 0;
+    background: #3B5998 none repeat scroll 0 0;
     border-radius: 0 0 4px 4px;
     border-top: 1px solid #fa6342;
     list-style: outside none none;
