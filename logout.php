@@ -1,6 +1,6 @@
 
 <?php
-include 'PHP/sessionend.php';
+include 'sessionend.php';
 ?>
 
 <!DOCTYPE html>

@@ -1,6 +1,6 @@
 
 <?php 
-include 'PHP/config.php';
+include 'config.php';
 if(isset($_REQUEST['submit'])){
     $email = $_POST['email'];
     $userName = $_POST["username"];
@@ -9,7 +9,7 @@ if(isset($_REQUEST['submit'])){
     if($pass1 == $pass2){
         $query = "INSERT INTO user (USERNAME,EMAIL,pass) VALUE('$userName','$email','$pass1')";
         if(mysqli_query($conn,$query)){
-            header("location:/smartbook1/index.php");
+            header("location:index.php");
         }   
     }
   }

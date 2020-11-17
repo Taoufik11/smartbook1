@@ -1,6 +1,6 @@
 <?php include 'phpinclude/loadpage.php' ?>
 <?php
-include "PHP/config.php";
+include "login.php";
 session_start();
 if(isset($_SESSION["username"])){
     header("location:home.php");
