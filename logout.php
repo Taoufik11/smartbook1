@@ -557,7 +557,7 @@ include 'sessionend.php';
 									<h4><i class="fa fa-key"></i> Login</h4>
 									<p>Login again, you have recently signout from here</p>
 									<div class="logout-form">
-										<form class="again-login" method="POST" action="PHP/login.php">
+										<form class="again-login" method="POST" action="login.php">
 										<input type="text" name="username" placeholder="User Name">
 										<input type="password" name="password" placeholder="Password">
 										<button type="submit" name="submit">Login</button>
