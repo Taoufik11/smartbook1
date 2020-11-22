@@ -1112,11 +1112,11 @@
 						<ul class="location">
 							<li>
 								<i class="ti-map-alt"></i>
-								<p>33 new montgomery st.750 san francisco, CA USA 94105.</p>
+								<p> Nottigham House Shorts Gardens.London,WC2H 9AX UK.</p>
 							</li>
 							<li>
 								<i class="ti-mobile"></i>
-								<p>+1-56-346 345</p>
+								<p>+447825234534</p>
 							</li>
 						</ul>
 					</div>
@@ -1174,7 +1174,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<span class="copyright">© Pitnik 2020. All rights reserved.</span>
+					<span class="copyright">© Smart Book 2020. All rights reserved.</span>
 					<i><img src="images/credit-cards.png" alt=""></i>
 				</div>
 			</div>
